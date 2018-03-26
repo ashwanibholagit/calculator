@@ -7,3 +7,6 @@ c:\users\ashwani1942\documents\visual studio 2015\Projects\Calculator\Calculator
 C:\Users\ashwani1942\Source\Repos\calculator\Calculator\bin\Debug\Calculator.exe.config
 C:\Users\ashwani1942\Source\Repos\calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\ashwani1942\Source\Repos\calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\swekriti1212\Source\Repos\calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\swekriti1212\Source\Repos\calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\swekriti1212\Source\Repos\calculator\Calculator\obj\Debug\Calculator.pdb
