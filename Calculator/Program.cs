@@ -13,7 +13,7 @@ namespace Calculator
         }
 
 
-        public static void add3() {
+        public static void add() {
 
         }
 
