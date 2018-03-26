@@ -13,11 +13,11 @@ namespace Calculator
         }
 
 
-        public static void add() {
+        public static void add2() {
 
         }
 
-        public static void sub()
+        public static void sub2()
         {
 
         }
