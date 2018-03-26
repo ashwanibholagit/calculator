@@ -29,6 +29,10 @@ namespace Calculator
         {
 
         }
+        public static void div2()
+        {
+
+        }
 
     }
 }
