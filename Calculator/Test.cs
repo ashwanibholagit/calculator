@@ -8,5 +8,8 @@ namespace Calculator
 {
     class Test
     {
+        public static void nothing()
+        {
+        }
     }
 }
