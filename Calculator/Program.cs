@@ -25,6 +25,14 @@ namespace Calculator
         {
 
         }
+        public static void div1()
+        {
+
+        }
+        public static void div2()
+        {
+
+        }
 
     }
 }
