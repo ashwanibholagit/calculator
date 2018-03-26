@@ -11,5 +11,9 @@ namespace Calculator
         public static void nothing()
         {
         }
+
+        public static void nothing1()
+        {
+        }
     }
 }
