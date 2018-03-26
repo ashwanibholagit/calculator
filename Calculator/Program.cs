@@ -11,5 +11,10 @@ namespace Calculator
         static void Main(string[] args)
         {
         }
+
+
+        public static void add() {
+
+        }
     }
 }
